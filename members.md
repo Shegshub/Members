@@ -1,4 +1,4 @@
 # Shegshub Community memeber
 
 ## Members List
-* ![Segun Olumide](https://github.com/wonexo)
+* [Segun Olumide](https://github.com/wonexo)
